@@ -1,18 +1,18 @@
 ### Hi there 👋
 <br/>
-<a href="https://www.linkedin.com/in/anirudha-kulkarni47/">
+<a href="https://www.linkedin.com/in/anirudha-kulkarni47/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Anirudhak">
+<a href="https://t.me/Anirudhak"target="_blank">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/ani.cool_karni/">
+<a href="https://www.instagram.com/ani.cool_karni/"target="_blank"target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://codeforces.com/profile/anirudhak47">
+<a href="https://codeforces.com/profile/anirudhak47"target="_blank">
   <img align="left" alt="codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<a href="https://www.codechef.com/users/anirudhak47">
+<a href="https://www.codechef.com/users/anirudhak47"target="_blank">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br/>
