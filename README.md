@@ -16,7 +16,7 @@
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br/>
-
+<br/>
 ![](https://anirudhakulkarni-visitor-badge.glitch.me/badge?page_id=anirudhakulkarni.anirudhakulkarni)
 <br />
 Refresh the page if there is blank line just above this.
