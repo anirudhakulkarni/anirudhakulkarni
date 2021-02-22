@@ -28,4 +28,5 @@ Refresh the page if there is blank line just above this.
 
 <br />
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=anirudha)
 
