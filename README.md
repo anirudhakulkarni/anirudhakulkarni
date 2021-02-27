@@ -18,10 +18,10 @@
 </a>
 <br/>
 <br/>
-I am Anirudha Kulkarni, 2nd Year Undergraduate at **IIT Delhi** pursuing Major in **Computer Science and Engineering.** <br/>
-I work with **C++** and **python** for most of my works, **java** for **DSA** related stuffs. Sometimes with **Standard ML** and **Assembly languages** for Course assignments. <br/>
+I am Anirudha Kulkarni, 2nd Year Undergraduate at <strong>IIT Delhi</strong> pursuing Major in <strong>Computer Science and Engineering.</strong> <br/>
+I work with <strong>C++</strong> and <strong>python</strong> for most of my works, <strong>java</strong> for <strong>DSA</strong> related stuffs. Sometimes with <strong>Standard ML</strong> and <strong>Assembly languages</strong> for Course assignments. <br/>
 I am into the Web Development for quite a time and works mainly with MERN and tailwindcss <br/>
-**Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. Maybe the next innovation is just a few clicks away**
+<strong>Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. Maybe the next innovation is just a few clicks away</strong>
 <br/>
 
 ---
@@ -30,7 +30,6 @@ I am into the Web Development for quite a time and works mainly with MERN and ta
 <br />
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=anirudhakulkarni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Well, kind off showing off the amount I spend with my laptop 🙈
 
