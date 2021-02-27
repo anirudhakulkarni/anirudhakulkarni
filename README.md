@@ -17,11 +17,12 @@
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br/>
-
+<br/>
 I am Anirudha Kulkarni, 2nd Year Undergraduate at IIT Delhi pursuing Major in Computer Science and Engineering. <br/>
 I work with C++ and python for most of my works, java for DSA related stuffs. Sometimes with Standard ML and Assembly languages for Course assignments. <br/>
 I am into the Web Development for quite a time and works mainly with MERN and tailwindcss <br/>
 Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. Maybe the next innovation is just a few clicks away
+<br/>
 
 ---
 
