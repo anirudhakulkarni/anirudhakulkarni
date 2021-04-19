@@ -31,6 +31,3 @@ I am into the Web Development for quite a time and works mainly with MERN and ta
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=anirudhakulkarni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-Well, nothing. Just showing off the time I spend with my laptop 🙈.
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=anirudha)
