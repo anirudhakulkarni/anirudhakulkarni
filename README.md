@@ -23,9 +23,13 @@
 <br/>
 I am Anirudha Kulkarni, 3rd Year Undergraduate at <strong>IIT Delhi</strong> pursuing Major in <strong>Computer Science and Engineering.</strong> <br/>
 I work with <strong>C++</strong> and <strong>python</strong> for most of my works, <strong>java</strong> for <strong>DSA</strong> related stuffs. Sometimes with <strong>Standard ML</strong> and <strong>Assembly languages</strong> for Course assignments. <br/>
-I am into the Web Development for quite a time and works mainly with MERN and tailwindcss <br/>
-I am looking for collaborations in Machine Learning and AI<br/>
-<strong>Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. Maybe the next innovation is just a few clicks away</strong>
+I am into the Web Development for quite a time and works mainly with <strong>MERN</strong> and <strong>tailwindcss</strong> <br/>
+I am looking for collaborations in <strong>Machine Learning</strong> and <strong>AI</strong><br/>
+I love to break into systems and experiment with them ;)
+
+<strong>Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. 
+
+Maybe the next innovation is just a few clicks away!</strong>
 <br/>
 
 
