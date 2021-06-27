@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <br/>
+<a href="https://4n1rudh4.medium.com/" target="_blank">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <a href="https://www.linkedin.com/in/anirudha-kulkarni47/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,12 +21,13 @@
 </a>
 <br/>
 <br/>
-I am Anirudha Kulkarni, 2nd Year Undergraduate at <strong>IIT Delhi</strong> pursuing Major in <strong>Computer Science and Engineering.</strong> <br/>
+I am Anirudha Kulkarni, 3rd Year Undergraduate at <strong>IIT Delhi</strong> pursuing Major in <strong>Computer Science and Engineering.</strong> <br/>
 I work with <strong>C++</strong> and <strong>python</strong> for most of my works, <strong>java</strong> for <strong>DSA</strong> related stuffs. Sometimes with <strong>Standard ML</strong> and <strong>Assembly languages</strong> for Course assignments. <br/>
 I am into the Web Development for quite a time and works mainly with MERN and tailwindcss <br/>
 I am looking for collaborations in Machine Learning and AI<br/>
 <strong>Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. Maybe the next innovation is just a few clicks away</strong>
 <br/>
+
 
 ---
 
