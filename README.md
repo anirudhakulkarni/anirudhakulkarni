@@ -4,6 +4,10 @@
 <a href="https://4n1rudh4.medium.com/" target="_blank">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+<a href="4n1rudh4@xmpp.jp" target="_blank">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/xmpp.svg" />
+</a>
 <a href="https://www.linkedin.com/in/anirudha-kulkarni47/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
