@@ -26,9 +26,9 @@
 <br/>
 <br/>
 I am Anirudha Kulkarni, 3rd Year Undergraduate at <strong>IIT Delhi</strong> pursuing Major in <strong>Computer Science and Engineering.</strong> <br/>
-I work with <strong>C++</strong> and <strong>python</strong> for most of my works, <strong>java</strong> for <strong>DSA</strong> related stuffs. Sometimes with <strong>Standard ML</strong> and <strong>Assembly languages</strong> for Course assignments. <br/>
-I am looking for collaborations in launching <strong>NFTs</strong><br/>
-I love to break into systems and experiment with them ;)
+I work with <strong>C++</strong> and <strong>python</strong> for most of my works, <strong>java</strong> for <strong>DSA</strong> related stuffs.
+I have worked in machine learning, blockchain and cryptocurrencies, web development.
+I am looking for collaborations in launching <strong>NFTs</strong> and <strong>Custom currency</strong><br/>
 
 <strong>Ping me for projects, building cool stuffs, implementing crazy ideas or just for a talk about techie things. 
 
